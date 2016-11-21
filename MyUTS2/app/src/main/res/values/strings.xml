@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyUTS</string>
+    <string name="title_activity_menu_utama">Menu Utama UTS </string>
+    <string name="title_activity_video">Menu Video</string>
+    <string name="title_activity_music">Menu Music</string>
+    <string name="title_activity_minimarket">Menu Minimarket</string>
+    <string name="title_activity_video_play">Menu Video Play</string>
+    <string name="title_activity_music_play">Menu Music Play</string>
+    <string name="title_activity_maps">Menu Maps</string>
+    <string name="title_activity_help">Menu Bantuan</string>
+    <string name="title_activity_profil">Menu Profil</string>
+</resources>
